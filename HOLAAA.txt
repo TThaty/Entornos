@@ -1,4 +1,8 @@
 prueba1
 prueba 2
 esta es la modificación del alumno 20, en el repo del alumno 11
+<<<<<<< HEAD
 VAMOS A PROVOCAR UN MERGEEEEEEEEEEE
+=======
+hola que tal
+>>>>>>> 51797f0da1de4d71ea94fcc87120f9d296e562ac
